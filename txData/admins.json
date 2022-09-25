@@ -1,0 +1,36 @@
+[
+  {
+    "name": "GuoTGamer",
+    "master": true,
+    "password_hash": "$2a$11$vQ2HbuxNUIyQZWUjcWcLNePYyiaCoVy/aHDEsYDRf43FEG83kdKV2",
+    "providers": {
+      "citizenfx": {
+        "id": "GuoTGamer",
+        "identifier": "fivem:1157002",
+        "data": {}
+      },
+      "discord": {
+        "id": "280259899479556096",
+        "identifier": "discord:280259899479556096",
+        "data": {}
+      }
+    },
+    "permissions": []
+  },
+  {
+    "name": "Kuijerboi",
+    "master": false,
+    "password_hash": "$2a$11$qBbHhbmbiH8L.Y6Uv7PLNORvjndGlCEHgCutGCLW.2MrmPHGB6PdC",
+    "password_temporary": true,
+    "providers": {
+      "discord": {
+        "id": "372758785288044547",
+        "identifier": "discord:372758785288044547",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]
